@@ -5,7 +5,7 @@
 <center><figcaption>Back Project</figcaption></center>
 
 
-
+Uploading team-angry-nerds.mp4…
 
 
 ## Technology
@@ -30,7 +30,7 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/genesis PROJECT_NAME
+    git clone https://github.com/Aniket-Patel-swg/code-by-the-beach PROJECT_NAME
     cd PROJECT_NAME # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
@@ -44,10 +44,6 @@ To run the demo follow these steps:
 2. Create a CometChat project, copy and paste your key in the spaces below.
 3. Run the app using `yarn start`
 <br/>
-
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/genesis/issues). We're here to help ✌️
 
 ## Useful links
 
