@@ -1,9 +1,12 @@
 import React from "react";
+import Welcome from './components/Welcome.jsx';
 
 const HomePage = () => {
     return ( 
-        <>
-            this is an checking text
+        <>  
+        
+            <Welcome />
+            
         </>
      );
 }
