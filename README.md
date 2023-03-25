@@ -1,7 +1,8 @@
-# How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat
-
+# This is an block chain based crowdfunding application developed by [Karan Dattani] (https://github.com/karan030204),[Aniket Patel] (https://github.com/Aniket-Patel-swg), [Saurav Navdhare] (https://github.com/Saurav-Navdhare)
 ![Genesis Project](./screenshots/1.gif)
 <center><figcaption>Back Project</figcaption></center>
+
+
 
 ## Technology
 
