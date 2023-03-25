@@ -1,8 +1,5 @@
 # How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat
 
-![Genesis Project](./screenshots/0.gif)
-<center><figcaption>Genesis Project</figcaption></center>
-
 ![Genesis Project](./screenshots/1.gif)
 <center><figcaption>Back Project</figcaption></center>
 
