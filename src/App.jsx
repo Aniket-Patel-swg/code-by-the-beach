@@ -5,6 +5,7 @@ import Home from './views/Home'
 import Project from './views/Project'
 import { isWallectConnected } from './services/blockchain'
 import { ToastContainer } from 'react-toastify'
+import HomePage from './HomePage.jsx';
 
 const App = () => {
   const [loaded, setLoaded] = useState(false)
@@ -18,12 +19,13 @@ const App = () => {
   return (
     <div className="min-h-screen relative">
       <Header />
-      {loaded ? (
+      (
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home  " element={<Home />} />
           <Route path="/projects/:id" element={<Project />} />
+          <Route path="/" element={<HomePage />} />
         </Routes>
-      ) : null}
+      ) 
 
       <ToastContainer
         position="bottom-center"
