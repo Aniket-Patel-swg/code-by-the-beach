@@ -117,9 +117,6 @@ const ProjectCard = ({ project }) => {
           </div>
         </div>
       </Link>
-      <div className="made-by">
-        Aniket patel, Karan Dattani & Saurav Navdhare
-      </div>
     </div>
   )
 }
